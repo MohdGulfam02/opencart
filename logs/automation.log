@@ -1033,3 +1033,19 @@
 2025-07-11 15:17:52 INFO  TC002_LoginTest:34 - Clicked on Login button.. 
 2025-07-11 15:17:52 INFO  TC002_LoginTest:38 - Validating expected messages..
 2025-07-11 15:17:52 INFO  TC002_LoginTest:50 - ******** Finished TC002_LoginTest ********
+2025-07-11 20:42:11 INFO  TC004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2025-07-11 20:42:12 INFO  TC004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2025-07-11 20:43:23 INFO  TC004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2025-07-11 20:43:28 INFO  TC004_SearchProductTest:36 -  Finished TC_004_SearchProductTest 
+2025-07-11 20:44:04 INFO  TC005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2025-07-11 20:45:25 INFO  TC005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2025-07-11 20:45:26 INFO  TC005_AddToCartPageTest:41 -  Finished TC_004_SearchProductTest 
+2025-07-11 21:21:16 INFO  TC004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2025-07-11 21:21:22 INFO  TC004_SearchProductTest:36 -  Finished TC_004_SearchProductTest 
+2025-07-11 22:39:05 INFO  TC004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2025-07-11 22:39:11 INFO  TC004_SearchProductTest:36 -  Finished TC_004_SearchProductTest 
+2025-07-11 22:39:45 INFO  TC004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2025-07-11 23:10:28 INFO  TC005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2025-07-11 23:15:18 INFO  TC005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2025-07-11 23:15:55 INFO  TC005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2025-07-11 23:16:00 INFO  TC005_AddToCartPageTest:41 -  Finished TC_004_SearchProductTest 

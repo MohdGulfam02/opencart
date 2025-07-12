@@ -6,14 +6,15 @@
 	</listeners>
 
   <test name="Test">
-
-  
   	<parameter name="browser" value="chrome"></parameter>
   	<parameter name="os" value="Windows"></parameter>
     <classes>
-      <class name="testCases.TC001_AccountRegistrationTest"/>
-     <class name="testCases.TC002_LoginTest"/> 
-    <!--  <class name="testCases.TC003_LoginDDT"/> -->
+        <!-- <class name="testCases.TC001_AccountRegistrationTest"/> --> 
+	     <!-- <class name="testCases.TC002_LoginTest"/> -->
+	     <!-- <class name="testCases.TC003_LoginDDT"/> -->
+	     <!-- <class name="testCases.TC004_SearchProductTest"/> -->
+	     <class name="testCases.TC005_AddToCartPageTest"/> 
+	     <!--<class name="testCases.TC006_EndToEndTest"/> --> 
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
